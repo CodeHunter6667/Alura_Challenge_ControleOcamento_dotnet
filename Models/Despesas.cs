@@ -1,7 +1,8 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Challenge_2.Models;
-
+[Table("tb_despesas")]
 public class Despesas
 {
     [Key]
