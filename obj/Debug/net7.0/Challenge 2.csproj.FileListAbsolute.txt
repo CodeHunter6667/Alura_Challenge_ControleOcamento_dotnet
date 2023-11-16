@@ -71,3 +71,4 @@ D:\Projetos Programacao\Projetos C Sharp\curso alura\Challenge Api\Challenge 2\o
 D:\Projetos Programacao\Projetos C Sharp\curso alura\Challenge Api\Challenge 2\obj\Debug\net7.0\Challenge 2.pdb
 D:\Projetos Programacao\Projetos C Sharp\curso alura\Challenge Api\Challenge 2\obj\Debug\net7.0\Challenge 2.genruntimeconfig.cache
 D:\Projetos Programacao\Projetos C Sharp\curso alura\Challenge Api\Challenge 2\obj\Debug\net7.0\ref\Challenge 2.dll
+D:\Projetos Programacao\Projetos C Sharp\curso alura\Challenge Api\Challenge 2\obj\Debug\net7.0\Challenge 2.sourcelink.json

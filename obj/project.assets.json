@@ -2987,6 +2987,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.13",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.13",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.13",
+      "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Newtonsoft.Json >= 13.0.3"
     ]
   },
@@ -3063,6 +3064,10 @@
             "target": "Package",
             "version": "[7.0.13, )"
           },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
@@ -3087,7 +3092,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
